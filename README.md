@@ -1,0 +1,1 @@
+"# Disertatie-OCR-application" 
