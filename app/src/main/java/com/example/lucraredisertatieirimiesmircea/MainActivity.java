@@ -34,7 +34,7 @@ public class MainActivity extends AppCompatActivity
     private Button buttonCapture, buttonCopy;
     private TextView textViewData;
     private Bitmap bitmap;
-    private static final int REQUEST_CAMERA_CODE = 100;
+    private static final int REQUEST_CAMERA_CODE = 100;;
 
     @Override
     protected void onCreate(Bundle savedInstanceState)
